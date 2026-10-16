@@ -1,0 +1,20 @@
+SITIO WEB · VERÓNICA ARRUETA · PERITA INFORMÁTICA
+
+Estructura
+  index.html          → contenido de la página (textos, secciones)
+  css/styles.css      → colores, tipografías y diseño (variables de marca al inicio)
+  js/main.js          → menú móvil y preguntas frecuentes
+  img/                → foto y logos
+
+Antes de publicar, en index.html buscá y reemplazá:
+  5492990000000             → tu WhatsApp (formato internacional, sin + ni espacios)
+  +54 9 299 000-0000        → tu teléfono visible
+  contacto@huellait.com.ar  → tu correo
+  https://www.linkedin.com/ → tu perfil de LinkedIn
+
+Para subir: copiá TODO el contenido de esta carpeta (no la carpeta en sí)
+a public_html del hosting.
+
+Colores (css/styles.css, bloque :root)
+  --violeta #6432C8 · --aqua #00FAC8 · --fucsia #F0287A
+  --noche #0E0719 · --tinta #1C1036 · --lavanda #E6DEF8 · --hueso #F7F4FC
