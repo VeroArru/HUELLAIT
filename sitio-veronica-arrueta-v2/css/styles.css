@@ -53,8 +53,8 @@ strong { font-weight: 600; }
 .btn--aqua:hover { background: #5FFFDD; }
 
 /* ---------- Etiquetas ---------- */
-.kicker { display: inline-flex; align-items: center; gap: 10px; font-family: var(--f-mono); font-size: .72rem; letter-spacing: .14em; text-transform: uppercase; color: var(--violeta); margin-bottom: 14px; }
-.kicker::before { content: ""; width: 26px; height: 2px; background: var(--fucsia); }
+.kicker { display: inline-flex; align-items: center; gap: 12px; font-family: var(--f-mono); font-size: .9rem; letter-spacing: .12em; text-transform: uppercase; color: var(--violeta); margin-bottom: 16px; }
+.kicker::before { content: ""; width: 34px; height: 2px; background: var(--fucsia); }
 .label { font-family: var(--f-mono); font-size: .68rem; letter-spacing: .12em; text-transform: uppercase; color: var(--violeta); margin-bottom: 8px; }
 .label--pink { color: #FF6FA8; }
 .label--aqua { color: var(--aqua); }
@@ -68,9 +68,9 @@ strong { font-weight: 600; }
 /* ---------- Navegación ---------- */
 .nav { position: sticky; top: 0; z-index: 50; background: rgba(14, 7, 25, .96); backdrop-filter: blur(14px); border-bottom: 1px solid rgba(255, 255, 255, .06); }
 .nav__inner { display: flex; align-items: center; gap: 28px; padding: 12px 0; }
-.brand { display: flex; align-items: center; gap: 14px; }
-.brand img { width: 74px; }
-.brand__tag { font-family: var(--f-mono); font-size: .64rem; line-height: 1.35; letter-spacing: .08em; text-transform: uppercase; color: #A898CF; border-left: 1px solid rgba(255, 255, 255, .15); padding-left: 14px; }
+.brand { display: flex; align-items: center; gap: 16px; }
+.brand img { width: 96px; }
+.brand__tag { font-family: var(--f-mono); font-size: .8rem; line-height: 1.35; letter-spacing: .08em; text-transform: uppercase; color: #A898CF; border-left: 1px solid rgba(255, 255, 255, .15); padding-left: 16px; }
 .nav__menu { display: flex; gap: 26px; margin: 0 auto; font-size: .87rem; color: #E6E0F5; }
 .nav__menu a:not(.btn):hover { color: var(--aqua); }
 .nav__mob { display: none; }
@@ -289,4 +289,6 @@ strong { font-weight: 600; }
   .node--a { left: -4px; bottom: 50px; }
   .node--c { right: -4px; bottom: 16px; }
   .node--main { top: 10px; }
+  .brand img { width: 76px; }
+  .kicker { font-size: .74rem; letter-spacing: .08em; }
 }
