@@ -85,7 +85,7 @@ strong { font-weight: 600; }
   var(--noche); }
 .hero__grid { position: absolute; inset: 0; background-image: radial-gradient(rgba(255, 255, 255, .08) 1px, transparent 1px); background-size: 22px 22px; mask-image: linear-gradient(180deg, transparent, #000 30%, #000 70%, transparent); }
 .hero__inner { position: relative; display: grid; grid-template-columns: 1.1fr .9fr; gap: 30px; align-items: center; padding: 70px 0 50px; }
-.hero .kicker { color: #9C8CC4; }
+.hero .kicker { color: #FFFFFF; }
 .hero h1 { color: var(--blanco); font-size: clamp(2.4rem, 5.2vw, 4.1rem); letter-spacing: -.015em; }
 .hero h1 span { display: block; background: linear-gradient(90deg, var(--violeta-claro) 0%, #B58BF0 30%, var(--aqua) 100%); -webkit-background-clip: text; background-clip: text; color: transparent; }
 .hero__lead { margin-top: 22px; max-width: 54ch; color: #C9C0DE; font-size: 1rem; }
