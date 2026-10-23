@@ -8,7 +8,7 @@ Estructura
 
 Antes de publicar, en index.html buscá y reemplazá:
   5492990000000             → tu WhatsApp (formato internacional, sin + ni espacios)
-  +54 9 299 000-0000        → tu teléfono visible
+  +54 9 299 5 40-4500        → tu teléfono visible
   contacto@huellait.com.ar  → tu correo
   https://www.linkedin.com/ → tu perfil de LinkedIn
 
